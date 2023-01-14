@@ -2,7 +2,7 @@
 
 A Multiplayer setup for unity that is capable of sending and receiving responses that include player transforms and other messages
 
-##Important note: Currently in development phase
+## Important note: Currently in development phase
 
 ## What is the use of this Repo
 
